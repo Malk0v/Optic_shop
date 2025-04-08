@@ -13,6 +13,7 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
 a {
   text-decoration: none;
   color: #ccc;
@@ -152,6 +153,37 @@ textarea {
   color: white;
   border-radius: 4px;
 }
+
 .send-order:hover {
   background: #218838;
+}
+
+@media screen and (max-width: 800px) {
+  #cart-button {
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+  }
+
+  header,
+  footer {
+    font-size: 10px;
+    padding: 1rem;
+  }
+  body {
+    font-size: 15px;
+  }
+
+  input[type="text"],
+  input[type="tel"],
+  textarea {
+    align-items: center;
+    width: 90%;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 10px;
+  }
 }
