@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "name": "Изюмская оптика",
+    "image": "./images/IMG_0364.jpg",
+    "description": "Настоящее стекло",
+    "options": [
+      { "diopter": -1.0, "price": 500 },
+      { "diopter": -1.5, "price": 520 },
+      { "diopter": -2.0, "price": 540 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Женские",
+    "image": "./images/IMG_0370.jpg",
+    "description": "Стильные и легкие очки",
+    "options": [
+      { "diopter": 1.0, "price": 600 },
+      { "diopter": 2.0, "price": 640 },
+      { "diopter": 3.0, "price": 660 },
+      { "diopter": 4.0, "price": 640 },
+      { "diopter": 5.0, "price": 660 },
+      { "diopter": 6.5, "price": 640 },
+      { "diopter": 7.0, "price": 660 },
+      { "diopter": 8.5, "price": 640 },
+      { "diopter": 9.0, "price": 660 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Мужские",
+    "image": "./images/IMG_0371.jpg",
+    "description": "Фильтруют свет",
+    "options": [
+      { "diopter": 0.0, "price": 950 },
+      { "diopter": 1.0, "price": 980 },
+      { "diopter": 1.5, "price": 1000 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Женские",
+    "image": "./images/IMG_0372.jpg",
+    "description": "Стильные и легкие очки",
+    "options": [
+      { "diopter": -1.0, "price": 600 },
+      { "diopter": -2.5, "price": 640 },
+      { "diopter": -3.0, "price": 660 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Мужские",
+    "image": "./images/IMG_0373.jpg",
+    "description": "Фильтруют свет",
+    "options": [
+      { "diopter": 0.0, "price": 950 },
+      { "diopter": 1.0, "price": 980 },
+      { "diopter": 1.5, "price": 1000 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Женские",
+    "image": "./images/IMG_0374.jpg",
+    "description": "Стильные и легкие очки",
+    "options": [
+      { "diopter": -1.0, "price": 600 },
+      { "diopter": -2.5, "price": 640 },
+      { "diopter": -3.0, "price": 660 }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Мужские",
+    "image": "./images/IMG_0375.jpg",
+    "description": "Фильтруют свет",
+    "options": [
+      { "diopter": 0.0, "price": 950 },
+      { "diopter": 1.0, "price": 980 },
+      { "diopter": 1.5, "price": 1000 }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Женские",
+    "image": "./images/IMG_0377.jpg",
+    "description": "Стильные и легкие очки",
+    "options": [
+      { "diopter": -1.0, "price": 600 },
+      { "diopter": -2.5, "price": 640 },
+      { "diopter": -3.0, "price": 660 }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Мужские",
+    "image": "./images/IMG_0379.jpg",
+    "description": "Фильтруют свет",
+    "options": [
+      { "diopter": 0.0, "price": 950 },
+      { "diopter": 1.0, "price": 980 },
+      { "diopter": 1.5, "price": 1000 }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Мужские",
+    "image": "./images/IMG_0380.jpg",
+    "description": "Фильтруют свет",
+    "options": [
+      { "diopter": 0.0, "price": 950 },
+      { "diopter": 1.0, "price": 980 },
+      { "diopter": 1.5, "price": 1000 }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Женские",
+    "image": "./images/IMG_0381.jpg",
+    "description": "Стильные и легкие очки",
+    "options": [
+      { "diopter": -1.0, "price": 600 },
+      { "diopter": -2.5, "price": 640 },
+      { "diopter": -3.0, "price": 660 }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Мужские",
+    "image": "./images/IMG_0382.jpg",
+    "description": "Фильтруют свет",
+    "options": [
+      { "diopter": 0.0, "price": 950 },
+      { "diopter": 1.0, "price": 980 },
+      { "diopter": 1.5, "price": 1000 }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Мужские",
+    "image": "./images/IMG_0383.jpg",
+    "description": "Фильтруют свет",
+    "options": [
+      { "diopter": 0.0, "price": 950 },
+      { "diopter": 1.0, "price": 980 },
+      { "diopter": 1.5, "price": 1000 }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Женские",
+    "image": "./images/IMG_0402.jpg",
+    "description": "Стильные и легкие очки",
+    "options": [
+      { "diopter": -1.0, "price": 600 },
+      { "diopter": -2.5, "price": 640 },
+      { "diopter": -3.0, "price": 660 }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Мужские",
+    "image": "./images/IMG_0581.jpg",
+    "description": "Фильтруют свет",
+    "options": [
+      { "diopter": 0.0, "price": 950 },
+      { "diopter": 1.0, "price": 980 },
+      { "diopter": 1.5, "price": 1000 }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Мужские",
+    "image": "./images/IMG_0582.jpg",
+    "description": "Фильтруют свет",
+    "options": [
+      { "diopter": 0.0, "price": 950 },
+      { "diopter": 1.0, "price": 980 },
+      { "diopter": 1.5, "price": 1000 }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Женские",
+    "image": "./images/IMG_0583.jpg",
+    "description": "Стильные и легкие очки",
+    "options": [
+      { "diopter": -1.0, "price": 600 },
+      { "diopter": -2.5, "price": 640 },
+      { "diopter": -3.0, "price": 660 }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Мужские",
+    "image": "./images/IMG_0584.jpg",
+    "description": "Фильтруют свет",
+    "options": [
+      { "diopter": 0.0, "price": 950 },
+      { "diopter": 1.0, "price": 980 },
+      { "diopter": 1.5, "price": 1000 }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Мужские",
+    "image": "./images/IMG_0585.jpg",
+    "description": "Фильтруют свет",
+    "options": [
+      { "diopter": 0.0, "price": 950 },
+      { "diopter": 1.0, "price": 980 },
+      { "diopter": 1.5, "price": 1000 }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Женские",
+    "image": "./images/IMG_0586.jpg",
+    "description": "Стильные и легкие очки",
+    "options": [
+      { "diopter": -1.0, "price": 600 },
+      { "diopter": -2.5, "price": 640 },
+      { "diopter": -3.0, "price": 660 }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Антифары",
+    "image": "./images/IMG_0587.jpg",
+    "description": "Фильтруют свет",
+    "options": [
+      { "diopter": 0.0, "price": 950 },
+      { "diopter": 1.0, "price": 980 },
+      { "diopter": 1.5, "price": 1000 }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Чехол черный",
+    "image": "./images/IMG_0588.jpg",
+    "description": "Фильтруют свет",
+    "options": [
+      { "diopter": 0.0, "price": 950 },
+      { "diopter": 1.0, "price": 980 },
+      { "diopter": 1.5, "price": 1000 }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Салфетки для очков",
+    "image": "./images/IMG_0589.jpg",
+    "description": "Из мягкой ткани",
+    "options": [
+      { "diopter": "красный", "price": 600 },
+      { "diopter": "синий", "price": 640 },
+      { "diopter": "желтый", "price": 660 }
+    ]
+  }
+]

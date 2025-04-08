@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Оптика</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header><h1>Интернет-магазин оптики</h1></header>
+    <div class="container">
+      <div id="product-list" class="products"></div>
+    </div>
+    <button id="cart-button">🛒</button>
+
+    <div id="cart-modal" class="modal">
+      <div class="modal-content">
+        <span class="close" id="close-cart">&times;</span>
+        <h2>Корзина</h2>
+        <div id="cart-items"></div>
+        <div class="cart-total" id="total-sum"></div>
+        <h3>Оформление заказа</h3>
+        <input
+          type="text"
+          id="user-name"
+          placeholder="Имя и Фамилия"
+          required
+        />
+        <input type="tel" id="user-phone" placeholder="Телефон" required />
+        <textarea
+          id="user-note"
+          placeholder="Комментарий (необязательно)"
+        ></textarea>
+        <button class="send-order" id="send-order">Отправить заказ</button>
+      </div>
+    </div>
+
+    <footer class="container">
+      <h3>Контакты и социальные сети</h3>
+      <a href="mailto:optics@example.com">Наша почта</a>
+      <br />
+      <br />
+      <a href="@your_shop_name">Telegram</a>
+      <br />
+      <br />
+      <a href="instagram/">Наш инстаграм</a>
+      <br />
+      <br />
+      <a href="tel:0 66 01 85 845">Позвонить для консультации</a>
+      <h3>Политика конфиденциальности</h3>
+      <p>
+        <i
+          >Мы не передаём ваши данные третьим лицам. Все данные используются
+          только для обработки заказов.</i
+        >
+      </p>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
